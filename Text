@@ -1,0 +1,11 @@
+List:
+append(element), extend(iterable), insert(index, element), remove(element), pop([index])
+
+Dict:
+get(key[, default]), keys(), values(), items(), update([other])
+
+Set:
+add(element), remove(element), discard(element), clear(), pop()
+
+Str:
+split([sep[, maxsplit]]), join(iterable), replace(old, new[, count]), find(sub[, start[, end]]), strip([chars])
